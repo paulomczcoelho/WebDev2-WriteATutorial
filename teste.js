@@ -1,0 +1,1 @@
+var myButtons = document.querySelector('#buttons');
